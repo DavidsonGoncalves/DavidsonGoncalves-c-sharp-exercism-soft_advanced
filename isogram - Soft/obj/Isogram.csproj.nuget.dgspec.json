@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Davidson\\Exercism\\csharp\\isogram\\Isogram.csproj": {}
+    "C:\\Exercism\\c-sharp-exercism-soft_advanced\\isogram - Soft\\Isogram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Davidson\\Exercism\\csharp\\isogram\\Isogram.csproj": {
+    "C:\\Exercism\\c-sharp-exercism-soft_advanced\\isogram - Soft\\Isogram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Davidson\\Exercism\\csharp\\isogram\\Isogram.csproj",
+        "projectUniqueName": "C:\\Exercism\\c-sharp-exercism-soft_advanced\\isogram - Soft\\Isogram.csproj",
         "projectName": "Isogram",
-        "projectPath": "C:\\Users\\Davidson\\Exercism\\csharp\\isogram\\Isogram.csproj",
-        "packagesPath": "C:\\Users\\Davidson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Davidson\\Exercism\\csharp\\isogram\\obj\\",
+        "projectPath": "C:\\Exercism\\c-sharp-exercism-soft_advanced\\isogram - Soft\\Isogram.csproj",
+        "packagesPath": "C:\\Users\\davidsoncgoncal\\.nuget\\packages\\",
+        "outputPath": "C:\\Exercism\\c-sharp-exercism-soft_advanced\\isogram - Soft\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Davidson\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\davidsoncgoncal\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -57,16 +57,31 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
